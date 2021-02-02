@@ -1,9 +1,9 @@
 # Yaz0 Web extractor
 
-That's it OK!
+- That's it OK!
 
-# just download the code.
+- just download the code.
 
-# open the "index" file.
+- open the "index" file.
 
-# then use it so easily!
+- then use it so easily!
